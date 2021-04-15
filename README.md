@@ -4,7 +4,7 @@
 
 [build-badge]: https://img.shields.io/travis/AndruRus/E1_HW_gallows/master.png?style=flat-square
 
-[build]: https://travis-ci.org/AndruRus/E1_HW_gallows
+[build]: https://travis-ci.com/AndruRus/E1_HW_gallows
 
 
 Приложение «загадывает» одно из следующих слов: skillfactory, testing, blackbox, pytest, unittest, coverage. И показывает количество букв в нём.
