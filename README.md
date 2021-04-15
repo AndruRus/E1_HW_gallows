@@ -17,9 +17,7 @@
 
 * Склонировать репозиторий:        
 
-git clone 
-
-cd 
+git clone https://github.com/AndruRus/E1_HW_gallows.git
 
 * Активировать виртуальное окружение:  virtualenv venv
 
