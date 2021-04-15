@@ -2,7 +2,7 @@
 
 [![Travis][build-badge]][build]
 
-[build-badge]: https://img.shields.io/travis/AndruRus/E1_HW_gallows/master.png?style=flat-square
+[build-badge]: https://travis-ci.com/AndruRus/E1_HW_gallows.svg?branch=main
 
 [build]: https://travis-ci.com/AndruRus/E1_HW_gallows
 
